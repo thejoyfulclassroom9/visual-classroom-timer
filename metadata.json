@@ -1,0 +1,5 @@
+{
+  "name": "Visual Classroom Timer",
+  "description": "A simple and clean visual timer for teachers to use in the classroom during tests or activities. Features a circular progress bar, digital display, and customizable duration.",
+  "requestFramePermissions": []
+}
